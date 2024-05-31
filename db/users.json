@@ -1,0 +1,35 @@
+{
+    "size": 6,
+    "users": [
+        {
+            "username": "mohammed",
+            "email": "test@test.com",
+            "id": 1
+        },
+        {
+            "username": "mohammemmd",
+            "email": "mohammemmd@ema.com",
+            "id": 2
+        },
+        {
+            "username": "mohammemmd",
+            "email": "email@mmm.com",
+            "id": 3
+        },
+        {
+            "username": "blabla",
+            "email": "test@emam.com",
+            "id": 4
+        },
+        {
+            "username": "mohammemmd",
+            "email": "email@mmm.com",
+            "id": 5
+        },
+        {
+            "username": "username",
+            "email": "test@test.com",
+            "id": 6
+        }
+    ]
+}
